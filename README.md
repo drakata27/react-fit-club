@@ -1,1 +1,1 @@
-Started Gym Website with Reactjs
+Started Gym Website with React
