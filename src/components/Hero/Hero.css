@@ -158,12 +158,15 @@
     padding: 1rem;
     width: fit-content;
     position: absolute;
-    top: 32rem;
+    top: 35rem;
     right: 28rem; 
 }
 
 .calories > img{
-    width: 3rem;
+    width: 4.3rem;
+
+    top: 0.001rem;
+    right: 6rem; 
 }
 
 .calories>div{
