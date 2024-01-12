@@ -76,6 +76,6 @@
     color: var(--orange);
 }
 
-.btn {
+.plan>button{
     width: 100%;
 }
